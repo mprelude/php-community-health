@@ -38,7 +38,6 @@ Examples of encouraged behaviour include:
 - Objective and qualified responses regarding why features or their
   implementations are lacking or otherwise not suitable
 - Mentor newcomers to the project
-- Behave professionally
 - Exercise consideration of the many different world views present and be
   respectful of them in your speech and actions
 - Attempt collaboration before conflict, and attempt to improve upon ideas
