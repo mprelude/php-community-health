@@ -26,7 +26,7 @@ following some basic rules with regards to mailinglist usage will:
   itself.
 * Help in making sure we all use our time more efficiently.
 * Prevent you from making a fool of yourself in public.
-* Increase the general level of goodwill on planet Earth.
+* Increase the general level of good will on planet Earth.
 
 Below are several suggestions on how to provide constructive criticism on RFC
 and other related discussions:
@@ -36,9 +36,8 @@ and other related discussions:
   that strives to be very open. The flip side is that the core developers
   are faced with a lot of requests. Make sure that you have done your
   research before posting to the entire developer community.
-* Write clear and unambiguous prose. It is better to be descriptive than to be
-  concise.
-* Write as much as is necessary, but as little as you can get away with.
+* Be clear and descriptive when communicating. Write as much as you need to in
+  order to convey your point clearly, and no more.
 * Not everyone that will read your post is a native English speaker, try to
   use simple words where possible.
 * Debate the technical issues, and ideas behind them, but never attack the
