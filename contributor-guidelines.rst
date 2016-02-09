@@ -32,10 +32,9 @@ Below are several suggestions on how to provide constructive criticism on RFC
 and other related discussions:
 
 * Respect other people working on the project.
-* Make sure you know what you are talking about. PHP is a very large project
-  that strives to be very open. The flip side is that the core developers
-  are faced with a lot of requests. Make sure that you have done your
-  research before posting to the entire developer community.
+* Research before asking a question or making a suggestion. Has the topic been
+  discussed before? Are there solutions and proposals which would cause you to
+  change your opinion without the same discussions being repeated?
 * Write clear and unambiguous prose. It is better to be descriptive than to be
   concise.
 * Write as much as is necessary, but as little as you can get away with.
